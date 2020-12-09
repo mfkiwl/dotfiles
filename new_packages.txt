@@ -1,0 +1,2 @@
+"aur/google-chrome",
+"aur/ookla-speedtest-bin",
